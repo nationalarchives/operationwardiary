@@ -7,4 +7,4 @@ Operation War Diary http://operationwardiary.org
 npm install .
 npm start
 ```
-Browse to http://localhost:2217
+Browse to http://localhost:2217/index.html
